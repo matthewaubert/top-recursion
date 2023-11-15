@@ -8,3 +8,6 @@ This repo was made as part of <a href="https://www.theodinproject.com/lessons/ja
 
 1. Write another function, "fibsRec", which solves the same problem recursively
 
+## Assignment 2: Merge Sort
+
+1. Write a function, "mergeSort", that takes in an array and returns a sorted array, using merge sort methodology.
